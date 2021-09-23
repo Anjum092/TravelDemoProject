@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-23T02:16:04 IST" name="Default suite" finished-at="2021-09-23T02:18:16 IST" duration-ms="132109">
+    <groups>
+    </groups>
+    <test started-at="2021-09-23T02:16:04 IST" name="Default test" finished-at="2021-09-23T02:18:16 IST" duration-ms="132109">
+      <class name="Travel.test.app.testCases.BookFlightTickets">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Travel.test.app.testCases.BookFlightTickets@e15b7e8]" started-at="2021-09-23T02:16:04 IST" name="setUp" finished-at="2021-09-23T02:16:08 IST" duration-ms="4126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="BookFlightTicket()[pri:0, instance:Travel.test.app.testCases.BookFlightTickets@e15b7e8]" started-at="2021-09-23T02:16:09 IST" name="BookFlightTicket" finished-at="2021-09-23T02:18:15 IST" duration-ms="126790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlightTicket -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Travel.test.app.testCases.BookFlightTickets@e15b7e8]" started-at="2021-09-23T02:18:15 IST" name="tearDown" finished-at="2021-09-23T02:18:16 IST" duration-ms="1159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Travel.test.app.testCases.BookFlightTickets -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
